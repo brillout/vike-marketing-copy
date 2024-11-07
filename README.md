@@ -35,9 +35,9 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 
 ## View 4: partners
 
-> **Sponsor Vike for a tight-knit collaboration**
+> **Sponsor Vike for a tight-knit partnership 🤝**
 
-Partners: ...
+Comapnies: ...
 
 Individuals: ...
 
