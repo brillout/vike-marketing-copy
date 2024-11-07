@@ -1,4 +1,4 @@
-# Marketing Structure
+# Marketing copy
 
 
 ## View 1: taglines
