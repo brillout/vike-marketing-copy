@@ -1,4 +1,4 @@
-# Marketing copy
+# Vike marketing copy
 
 
 ## View 1: taglines
