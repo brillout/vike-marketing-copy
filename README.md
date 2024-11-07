@@ -3,11 +3,11 @@
 
 ## View 1: taglines
 
-> **Frontend Framework without the Magic.**
+> **Framework without the Magic.**
 
-> **Take Control of Your Stack.**
+> **Next.js/Nuxt alternative to take control of your stack.**
 
-Next.js/Nuxt alternative: a modular framework that is fully adaptable to your stack and workflow, without getting in your way.
+A modular framework, with all the essentials, that is fully adaptable to your stack and workflow—without getting in your way.
 
 
 ## View 2: benefits
