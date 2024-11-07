@@ -33,7 +33,18 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 ## View 3: features
 
 
-## View 4: partners
+## View 4: philosophy
+
+- Community-driven
+  > Before working on Vike, every Vike team member was like you: a software engineer developing apps. Tools that listen to users with great care is what we want and that's what we're building.
+  > We aren't a classical business, we are passionate engineers scratching their own itch.
+- Transparent roadmap
+- Transparent business model
+- Innovation by empowered ecosystem
+  > Vike's modular architecture empowers the ecosystem to innovate. This creates a wide surface for innovation—the secret sauce to the success of the JS ecosystem ✨
+
+
+## View 5: partners
 
 > **Sponsor Vike for a tight-knit partnership 🤝**
 
@@ -44,3 +55,4 @@ Individuals: ...
 > [!NOTE]
 > - Making each company clickable, e.g. `vike.dev/opral` explaining how Opral/Inlag leverage Vike in unique ways.
 > - Also showing companies that sponsored in the past (we can show the sponsoring range at `vike.dev/opral`).
+
