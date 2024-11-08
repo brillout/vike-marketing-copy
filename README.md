@@ -12,6 +12,17 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 
 ## View 2: benefits
 
+#### New
+- Future proof.
+  > Places your bets on a framework that adapts to fast evolving JavaScript ecosystem.
+- 100% customizable framework.
+  > Complex requirements? Build your company’s internal framework.
+- Easy migration
+  > You can migrate one module after another if needed. No big refactoring.
+- Open-source MIT
+  > 100% gratis for engineers, but we ask companies to pay a small amount.
+
+#### Old 
 - Build Your Own Framework
   > Complex requirements?  Build your company’s internal framework.
 - Easy migration
