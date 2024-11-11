@@ -26,8 +26,6 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 - Future proof.
   > Places your bets on a framework that adapts to fast evolving JavaScript ecosystem.
 
-> [!NOTE]
-> TODO: focus/reduce to 3 benefits?
 
 
 ## View: features
