@@ -10,22 +10,20 @@
 A modular framework, with all the essentials, that is fully adaptable to your stack and workflow—without getting in your way.
 
 
-## View: benefits
+## View: benefits [flexible]
 
-- Build Your Own Framework
-  > Complex requirements? Build your company’s internal framework.
-- Easy migration
-  > You can migrate one module after another if needed. No big refactoring.
-- Custom integrations
-  > Eject Vike extensions for full control over how to integrate your favorite tools
 - Your stack, your choice.
 - Cutting edge, at your own pace.
+- Build Your Own Framework.
 - Flexible, by design and priority.
-- Reliable, by business model and care.
-  > Vike is 100% open source (MIT license) and 100% gratis for engineers, but we ask companies to pay a small amount. We believe Vike's business model is a win for everyone. We value our small tight-knit community of paying custmers, which enables us to be highly responsive and put care in each of our users in unprecedented ways.
-- Future proof.
-  > Places your bets on a framework that adapts to fast evolving JavaScript ecosystem.
 
+
+## View: benefits [reliable]
+
+- Adopt the future.
+- Divide-and-conquer future migrations.
+- Transparent business model.
+- Reliable, by design and priority.
 
 
 ## View: features
