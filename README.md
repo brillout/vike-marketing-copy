@@ -46,7 +46,7 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 
 ## View 5: partners
 
-> **Sponsor Vike for a tight-knit partnership 🤝**
+> **Sponsor Vike and get a tight-knit partnership 🤝**
 
 Comapnies: ...
 
@@ -54,5 +54,5 @@ Individuals: ...
 
 > [!NOTE]
 > - Making each company clickable, e.g. `vike.dev/opral` explaining how Opral/Inlag leverage Vike in unique ways.
-> - Also showing companies that sponsored in the past (we can show the sponsoring range at `vike.dev/opral`).
+> - Also showing companies that sponsored in the past (we can show the sponsoring date range at `vike.dev/opral`).
 
