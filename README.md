@@ -13,9 +13,9 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 ## View 2: benefits
 
 - Build Your Own Framework
-  > Complex requirements?  Build your company’s internal framework.
+  > Complex requirements? Build your company’s internal framework.
 - Easy migration
-  > Migration becomes small packages.
+  > You can migrate one module after another if needed. No big refactoring.
 - Custom integrations
   > Eject Vike extensions for full control over how to integrate your favorite tools
 - Your stack, your choice.
