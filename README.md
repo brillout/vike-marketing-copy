@@ -1,7 +1,7 @@
 # Vike marketing copy
 
 
-## View 1: taglines
+## View: taglines
 
 > **Framework without the Magic.**
 
@@ -10,7 +10,7 @@
 A modular framework, with all the essentials, that is fully adaptable to your stack and workflow—without getting in your way.
 
 
-## View 2: benefits
+## View: benefits
 
 - Build Your Own Framework
   > Complex requirements? Build your company’s internal framework.
@@ -30,10 +30,10 @@ A modular framework, with all the essentials, that is fully adaptable to your st
 > TODO: focus/reduce to 3 benefits?
 
 
-## View 3: features
+## View: features
 
 
-## View 4: philosophy
+## View: philosophy
 
 - Community-driven
   > Before working on Vike, every Vike team member was like you: a software engineer developing apps. Tools that listen to users with great care is what we want and that's what we're building.
@@ -44,7 +44,7 @@ A modular framework, with all the essentials, that is fully adaptable to your st
   > Vike's modular architecture empowers the ecosystem to innovate. This creates a wide surface for innovation—the secret sauce to the success of the JS ecosystem ✨
 
 
-## View 5: partners
+## View: partners
 
 > **Sponsor Vike and get a tight-knit partnership 🤝**
 
