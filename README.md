@@ -16,26 +16,26 @@ Modular framework with architectural freedom.
 
 - Your stack, your choice.
   > Enjoy architectural freedom and choose any UI framework (React/Vue/Solid...), backend, deployement, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
-  > Pick Vike extensions to quickly integrate tools, while later if the need arises eject extensions for full control over tool integration.
+  > Pick Vike extensions to quickly integrate tools while later, if the need arises, eject extensions for full control over tool integration.
 
 - Cutting edge, at your own pace.
-  > Pick Vike extensions that implement well-established approaches, or use cutting-edge extensions. Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
+  > Use Vike extensions that implement well-established approaches or use cutting-edge extensions. Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
   > Vike doesn't enforce you the bleeding edge, but you can live on the edge in unprecedented ways if you choose to.
 
 - Build Your Own Framework.
-  > Vike adapts to your company requirements, not the other way around.
+  > Vike can adapt to your company requirements, not the other way around.
   > Vike's core is so flexible that you can build your own framework.
 
 - Flexible, by design and priority.
-  > Vike is designed from the high-level down to little details to be flexible.
+  > Vike is designed from the high-level down to the little details to be flexible.
   > Last but not least, we prioritize resolving blocking issues and feature requests.
 
 
 ## View: benefits [reliable]
 
 - Adopt the future.
-  > Vike's flexible core embraces the fast evolving JavaScript ecosystem. Whether it'd be new approaches with data-fetching, Server Components or deployement strategies, Vike's do-one-thing-do-it-well archtiecture quickly adapts to whatever comes next.
-  > Progressively migrate one stack component and one page at a time, instead of one big never-ending migration.
+  > Vike's flexible core embraces JavaScript's fast evolving ecosystem. Whether it'd be new approaches with data-fetching, Server Components, or deployement strategies, Vike's do-one-thing-do-it-well archtiecture quickly adapts to what comes next.
+  > Progressively migrate one stack component and one page at a time, instead of big never-ending migrations.
   > Place your bets in one framework that can naturally embrace your requirements and the future.
 
 - Transparent business model.
@@ -52,7 +52,7 @@ Modular framework with architectural freedom.
 ## View: philosophy
 
 - Do-one-thing-do-it-well
-  > A clear seperation of concerns is at the core of Vike's design. For unprecedented flexibility and robustness.
+  > A clear separation of concerns is at the core of Vike's design. For unprecedented flexibility and robustness.
 
 - Community-driven
   > Vike is led by engineers driven by the success of their users. Your success is our success.
