@@ -15,8 +15,8 @@ Modular framework with architectural freedom.
 ## View: benefits [flexible]
 
 - Your stack, your choice.
-  > Enjoy architectural freedom and choose any UI framework (React/Vue/Solid...), backend, deployement, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
-  > Pick Vike extensions to quickly integrate tools while later, if the need arises, eject extensions for full control over tool integration.
+  > - Enjoy architectural freedom and choose any UI framework (React/Vue/Solid...), backend, deployement, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
+  > - Pick Vike extensions to quickly integrate tools while later, if the need arises, eject extensions for full control over tool integration.
 
 - Cutting edge, at your own pace.
   > Use Vike extensions that implement well-established approaches or use cutting-edge extensions. Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
