@@ -19,7 +19,8 @@ Modular framework with architectural freedom.
   > - Pick Vike extensions to quickly integrate tools while later, if the need arises, eject extensions for full control over tool integration.
 
 - Cutting edge, at your own pace.
-  > - Use Vike extensions that implement well-established approaches or use cutting-edge extensions. Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
+  > - Use Vike extensions that implement well-established approaches or use cutting-edge extensions.
+  > - Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
   > - Vike doesn't enforce you the bleeding edge, but you can live on the edge in unprecedented ways if you choose to.
 
 - Build Your Own Framework.
@@ -34,12 +35,12 @@ Modular framework with architectural freedom.
 ## View: benefits [reliable]
 
 - Adopt the future.
-  > - Vike's flexible core embraces JavaScript's fast evolving ecosystem. Whether it'd be new approaches with data-fetching, Server Components, or deployement strategies, Vike's do-one-thing-do-it-well archtiecture quickly adapts to what comes next.
-  > - Progressively migrate one stack component and one page at a time, instead of big never-ending migrations.
+  > - Vike's flexible core embraces JavaScript's fast evolving ecosystem, such as new approaches with data fetching, server components, or deployement strategies.
+  > - Progressively migrate one stack component and one page at a time, instead of big and never-ending migrations.
   > - Place your bets in one framework that can naturally embrace your requirements and the future.
 
 - Transparent business model.
-  > Vike introduces a new business model we call "Open Source Pricing" that keeps code 100% open source (MIT license) and 100% gratis for software engineers while asking companies to pay a small amount. For a transparent and sustainable relationship between Vike and its users.
+  > Vike's Open Source Pricing keeps code 100% open source (MIT license) and 100% gratis for software engineers while asking companies to pay a small amount &mdash; for a transparent and sustainable relationship between Vike and users.
 
 - Reliable, by care.
   > - We quickly and systematically fix bugs (usually under 24 hours).
@@ -52,16 +53,16 @@ Modular framework with architectural freedom.
 ## View: philosophy
 
 - Do-one-thing-do-it-well
-  > A clear separation of concerns is at the core of Vike's design. For unprecedented flexibility and robustness.
+  > A clear separation of concerns is at the core of Vike's design &mdash; for unprecedented flexibility and robustness.
 
 - JavaScript ecosystem, unleashed
-  > JavaScript is a vibrant ecosystem of diverse, innovative and competing tools. Beyond the fact that you can use any tool, Vike's do-one-thing-do-it-well architecture creates a wide surface for innovation — the secret sauce to JavaScript's success.
+  > Vike's do-one-thing-do-it-well architecture creates a wide surface for innovation — the secret sauce to JavaScript's vibrant ecosystem of diverse, innovative and competing tools.
 
 - Community-driven
-  > Vike is led by engineers driven by the success of their users. Your success is our success.
+  > Vike is led by engineers driven by the success of their users &mdash; your success is our success.
 
 - Open Source Pricing
-  > We believe Vike's "Open Source Pricing" is a major shift and a win for everyone &mdash; for flourishing open source that stays accessible to everyone.
+  > We believe Vike's Open Source Pricing is a fundamental win for everyone &mdash; for flourishing open source that stays accessible to everyone.
 
 
 ## View: partners
