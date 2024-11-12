@@ -22,8 +22,7 @@ Modular framework with architectural freedom.
   > Choose between production-grade extensions or cutting-edge extensions &mdash; go with a conservative stack, or live on the edge in unprecedented ways.
 
 - **Build Your Own Framework.**
-  > - Vike's flexible core enables you to reproduce any framework and, better yet, build your own framework.
-  > - [Optional, or maybe as a "side sentence"] Vike can adapt to your company requirements, not the other way around.
+  > Vike's flexible core enables you to reproduce any framework and, better yet, build your own framework.
 
 - **Flexible, by design and priority.**
   > - **Flexbile design.** Vike is designed from the high-level down to the little details to be flexible.
@@ -33,7 +32,7 @@ Modular framework with architectural freedom.
 ## View: benefits [reliable]
 
 - **Adopt the future.**
-  > - **Future-proof.** Vike's flexible core embraces JavaScript's fast evolving ecosystem &mdash; [optional, or maybe a a "side sentence"] place your bets in a framework that embraces the future.
+  > - **Future-proof.** Vike's flexible core embraces JavaScript's fast evolving ecosystem &mdash; place your bets in a framework that embraces the future.
   > - **Divide-and-conquer migrations.** Progressively migrate one stack component and one page at a time, instead of big and never-ending migrations.
 
 - **Transparent business model.**
