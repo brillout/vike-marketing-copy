@@ -51,11 +51,17 @@ Modular framework for architectural freedom.
 
 ## View: philosophy
 
+- Do-one-thing-do-it-well
+  > A clear seperation of concerns is at the core of Vike's design. For unprecedented flexibility and robustness.
+
 - Community-driven
-  > Vike is a community-driven project led by engineers.
-- Transparency
-- Empowered ecosystem
-  > Vike's do-one-thing-do-it-well approach creates a wide surface for innovation — the secret sauce to the success of the JS ecosystem ✨
+  > Vike is led by engineers driven by the success of their users. Your success is our success.
+
+- Open Source Pricing
+  > We believe Vike's "Open Source Pricing" is a major shift and a win for everyone &mdash; for flourishing open source that stays accessible to everyone.
+
+- JavaScript ecosystem, unleashed
+  > JavaScript is a vibrant ecosystem of diverse, innovative and competing tools. Beyond the fact that you can use any tool, Vike's do-one-thing-do-it-well architecture creates a wide surface for innovation — the secret sauce to JavaScript's success.
 
 
 ## View: partners
