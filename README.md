@@ -14,37 +14,34 @@ Modular framework with architectural freedom.
 
 ## View: benefits [flexible]
 
-- Your stack, your choice.
-  > - Enjoy architectural freedom and choose any UI framework (React/Vue/Solid...), backend, deployement, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
-  > - Pick Vike extensions to quickly integrate tools while later, if the need arises, eject extensions for full control over tool integration.
+- **Your stack, your choice.**
+  > - **Architectural freedom.** Choose any UI framework (React/Vue/Solid...), backend, deployment, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
+  > - **Ejectable extensions.** Pick Vike extensions to quickly integrate tools while later, if the need arises, you can eject them for full control over tool integration.
 
-- Cutting edge, at your own pace.
-  > - Use Vike extensions that implement well-established approaches or use cutting-edge extensions.
-  > - Vike's flexible core enables both: conservative stacks as well cutting-edge stacks.
-  > - Vike doesn't enforce you the bleeding edge, but you can live on the edge in unprecedented ways if you choose to.
+- **Cutting edge, at your own pace.**
+  > Choose between production-grade extensions or cutting-edge extensions &mdash; go with a conservative stack, or live on the edge in unprecedented ways.
 
-- Build Your Own Framework.
-  > - Vike can adapt to your company requirements, not the other way around.
-  > - Vike's core is so flexible that you can build your own framework.
+- **Build Your Own Framework.**
+  > - Vike's flexible core enables you to reproduce any framework and, better yet, build your own framework.
+  > - [Optional, or maybe as a "side sentence"] Vike can adapt to your company requirements, not the other way around.
 
-- Flexible, by design and priority.
-  > - Vike is designed from the high-level down to the little details to be flexible.
-  > - Last but not least, we prioritize resolving blocking issues and feature requests.
+- **Flexible, by design and priority.**
+  > - **Flexbile design.** Vike is designed from the high-level down to the little details to be flexible.
+  > - **Less blockers.** Last but not least, we prioritize resolving blocking issues and feature requests.
 
 
 ## View: benefits [reliable]
 
-- Adopt the future.
-  > - Vike's flexible core embraces JavaScript's fast evolving ecosystem, such as new approaches with data fetching, server components, or deployement strategies.
-  > - Progressively migrate one stack component and one page at a time, instead of big and never-ending migrations.
-  > - Place your bets in one framework that can naturally embrace your requirements and the future.
+- **Adopt the future.**
+  > - **Future-proof.** Vike's flexible core embraces JavaScript's fast evolving ecosystem &mdash; [optional, or maybe a a "side sentence"] place your bets in a framework that embraces the future.
+  > - **Divide-and-conquer migrations.** Progressively migrate one stack component and one page at a time, instead of big and never-ending migrations.
 
-- Transparent business model.
+- **Transparent business model.**
   > Vike's Open Source Pricing keeps code 100% open source (MIT license) and 100% gratis for software engineers while asking companies to pay a small amount &mdash; for a transparent and sustainable relationship between Vike and users.
 
-- Reliable, by care.
-  > - We quickly and systematically fix bugs (usually under 24 hours).
-  > - We are responsive and provide clear guidelines on how to reach out and receive reliable support.
+- **Reliable, by care.**
+  > - **Responsive.** Vike's team is responsive, with a clear guideline on how to reach out for receiving support.
+  > - **Less bugs.** Bugs are systematically and quickly fixed (usually under 24 hours).
 
 
 ## View: features
