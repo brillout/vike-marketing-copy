@@ -9,7 +9,7 @@
 
 > Next.js/Nuxt alternative.
 
-Modular framework with architectural freedom.
+Modular framework for flexibility and architectural freedom.
 
 
 ## View: benefits [flexible]
