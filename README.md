@@ -16,7 +16,7 @@ Modular framework with architectural freedom.
 
 - **Your stack, your choice.**
   > - **Architectural freedom.** Choose any UI framework (React/Vue/Solid...), backend, deployment, data fetching (RPC/GraphQL/REST/...), and rendering strategy (SSR/SPA/SSG/...).
-  > - **Ejectable extensions.** Pick Vike extensions to quickly integrate tools while later, if the need arises, you can eject them for full control over tool integration.
+  > - **Ejectable extensions.** Use Vike extensions to quickly integrate tools and later, if the need arises, eject them for full control over tool integration.
 
 - **Cutting edge, at your own pace.**
   > Choose between production-grade extensions or cutting-edge extensions &mdash; go with a conservative stack, or live on the edge in unprecedented ways.
