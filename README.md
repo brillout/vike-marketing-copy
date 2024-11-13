@@ -3,13 +3,9 @@
 
 ## View: taglines
 
-> **Framework without the Magic.**
+> Framework Without Magic
 
-> **Take control of your stack.**
-
-> Next.js/Nuxt alternative.
-
-Modular framework for flexibility and architectural freedom.
+> Like Next.js/Nuxt but without loosing control.
 
 
 ## View: benefits [flexible]
