@@ -31,10 +31,10 @@
   > - **Progressively migrate** one stack component and one page at a time, instead of big never-ending migrations.
 
 - **Transparent business model.**
-  > Vike's *Open Source Pricing* keeps code 100% open source (MIT license) and 100% gratis for software engineers while asking companies to pay a small amount, for a **transparent and sustainable relationship between Vike and users**.
+  > Vike's *Open Source Pricing* keeps code 100% open source (MIT license) and 100% gratis for software engineers while asking companies to pay a small amount, for a **transparent and sustainable relationship**.
 
 - **Reliable, by care.**
-  > - **We are responsive** with a guideline for receiving guaranteed support.
+  > - **We are responsive** with a clear guideline on how to receive guaranteed assistance.
   > - **Bugs are quickly fixed** (usually under 24 hours).
 
 
