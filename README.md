@@ -44,7 +44,7 @@
 ## View: philosophy
 
 - Do-one-thing-do-it-well architecture
-  > Carefully designed with a clear separation of concerns, for unprecedented flexibility and robustness.
+  > Carefully designed with a clean separation of concerns, for unprecedented flexibility and robustness.
 
 - JavaScript ecosystem, unleashed
   > Vike's do-one-thing-do-it-well architecture creates a wide surface for innovation — the secret sauce to JavaScript's vibrant ecosystem.
