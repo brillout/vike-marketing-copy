@@ -49,7 +49,7 @@
 - Community-driven
   > Led by a team of engineers that is responsive and **driven by the success of its users**. Your success is our success.
 
-- JavaScript ecosystem, unleashed
+- JavaScript unleashed
   > Vike's do-one-thing-do-it-well architecture creates a **wide surface for innovation** — the secret sauce to JavaScript's vibrant ecosystem.
 
 
