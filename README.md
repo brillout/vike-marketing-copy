@@ -44,15 +44,15 @@
 ## View: philosophy
 
 - Do-one-thing-do-it-well architecture
-  > Carefully designed with a **clean separation of concerns**, for unprecedented flexibility and robustness.
+  > Designed with a **clean separation of concerns**, for unprecedented flexibility and robustness.
+
+- Community-driven
+  > Led by a responsive team of engineers **driven by the success of its users**. Your success is our success.
 
 - JavaScript ecosystem, unleashed
   > Vike's do-one-thing-do-it-well architecture creates a **wide surface for innovation** — the secret sauce to JavaScript's vibrant ecosystem.
 
-- Community-driven
-  > Led by a team of engineers **driven by the success of Vike's users**. Your success is our success.
-
-- Open Source Pricing
+- 100% accessible
   > Vike's Open Source Pricing is a **fundamental shift and a win for everyone**. For flourishing open source that stays accessible to everyone.
 
 
