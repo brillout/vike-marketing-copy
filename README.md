@@ -52,9 +52,6 @@
 - JavaScript ecosystem, unleashed
   > Vike's do-one-thing-do-it-well architecture creates a **wide surface for innovation** — the secret sauce to JavaScript's vibrant ecosystem.
 
-- 100% accessible
-  > Vike's Open Source Pricing is a **fundamental shift and a win for everyone**. For flourishing open source that stays accessible to everyone.
-
 
 ## View: partners
 
