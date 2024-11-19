@@ -21,7 +21,7 @@
   > Vike's **flexible core** enables you to reproduce any framework and, better yet, build your own framework.
 
 - **Flexible, by design and priority.**
-  > From **high-level design** to the **smallest details**, everything is carefully crafted for flexibility.
+  > From **high-level design** to the **smallest details**, Vike is built with flexibility in mind.
 
 
 ## View: benefits [reliable]
