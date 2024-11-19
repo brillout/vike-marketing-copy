@@ -43,14 +43,7 @@
 
 ## View: philosophy
 
-- Do-one-thing-do-it-well architecture
-  > Designed with a **clean separation of concerns**, for unprecedented flexibility and robustness.
-
-- Community-driven
-  > Led by a team of engineers that is responsive and **driven by the success of its users**. Your success is our success.
-
-- JavaScript unleashed
-  > Vike's do-one-thing-do-it-well architecture creates a **wide surface for innovation** — the secret sauce to JavaScript's vibrant ecosystem.
+Separation of concerns • Simplicity • Driven by user feedback • Led by engineers • Transparent business model • Flourishing do-one-thing-do-it-well ecosystem
 
 
 ## View: partners
