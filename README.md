@@ -18,7 +18,7 @@
   > Choose between **production-grade extensions** or **cutting-edge extensions** &mdash; go with a conservative stack, or live on the edge in unprecedented ways.
 
 - **Build Your Own Framework.**
-  > Vike's **flexible core** enables you to reproduce any framework and, better yet, build your own framework.
+  > Create an internal company framework that empowers your senior developers to fully own the architecture, ensuring a cohesive stack across your company.
 
 - **Flexible, by design and priority.**
   > From **high-level design** to the **smallest details**, Vike is built with flexibility in mind.
