@@ -43,8 +43,7 @@
 
 ## View: philosophy
 
-Separation of concerns • Simplicity • Driven by user feedback • Led by engineers • Transparent business model • Flourishing do-one-thing-do-it-well ecosystem
-
+Separation of concerns • Flourishing do-one-thing-do-it-well ecosystem • Strong leadership • User-driven
 
 ## View: partners
 
